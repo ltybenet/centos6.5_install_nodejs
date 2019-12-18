@@ -27,3 +27,5 @@ wget https://github.com/ltybenet/centos6.5_install_nodejs/raw/master/glibc-2.17.
 cd glibc-2.17
 yum -y install glibc-*
 ```
+### install nodejs
+https://github.com/nodejs/help/wiki/Installation#how-to-install-nodejs-via-binary-archive-on-linux
