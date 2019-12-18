@@ -1,0 +1,1 @@
+# centos6.5_install_nodejs
